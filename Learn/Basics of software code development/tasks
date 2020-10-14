@@ -1,0 +1,11 @@
+public class OktSeven {
+    public static void main(String[] args) {
+        int a = 1;
+        int b = 3;
+        int c = 5;
+        int z = ((a-3)*b/2)+c;
+        double y = (b + (Math.sqrt ((Math.pow(b, 2)) + (4 * a * c)))) / 2 * a - ((Math.pow(a, 3)) * c) + (Math.pow(b, -2));
+        System.out.println(z);
+        System.out.println(y);
+    }
+}
