@@ -7,7 +7,7 @@ public class OktSeven {
         double y = (b + (Math.sqrt ((Math.pow(b, 2)) + (4 * a * c)))) / 2 * a - ((Math.pow(a, 3)) * c) + (Math.pow(b, -2));
         System.out.println(z);
         System.out.println(y);
-        
+
         double degrees_x = 30.0;
         double degrees_y = 45.0;
         double x = ((Math.sin(degrees_x) + Math.cos(degrees_y))
@@ -29,7 +29,7 @@ public class OktSeven {
         String ahr = aahr.format(hr);
         String amin = aamin.format(min);
         String asec = aasec.format(sec);
-        
+
             System.out.println(z); // Task 1
             System.out.println(y); // Task 2
             System.out.println(x); // Task 3
