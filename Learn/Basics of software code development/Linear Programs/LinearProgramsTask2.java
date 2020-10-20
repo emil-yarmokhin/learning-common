@@ -1,9 +1,16 @@
+package LinearPrograms;
+
+import static java.lang.Math.sqrt;
+
 public class LinearProgramsTask2 {
     public static void main(String[] args) {
         int a = 1;
         int b = 3;
         int c = 5;
-        double y = (b + (Math.sqrt((Math.pow(b, 2)) + (4 * a * c)))) / 2 * a - ((Math.pow(a, 3)) * c) + (Math.pow(b, -2));
-        System.out.println(y);
+        double y = b + (sqrt(b * b + (4.0 * a * c)));
+        double x = (a * a * a * c);
+        double z = 1.0 / (b * b);
+        double res = y/(2.0 * a) - x + z;
+        System.out.println(res);
     }
 }
