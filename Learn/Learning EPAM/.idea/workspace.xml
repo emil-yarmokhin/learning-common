@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="037b8257-6846-4cce-ad20-be05194e4e2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning EPAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTest4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/Learning IDEA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/META-INF/Learning IDEA.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask6.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="225" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\HP\Desktop\learning-common\Learn\Learning EPAM\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j9aeG7T9dSPRfncAnACHkCemC7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\learning-common\Learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CyclesTask6">
+    <configuration name="CyclesTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cycles.CyclesTask1" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclesTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cycles.CyclesTask2" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclesTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cycles.CyclesTask6" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearProgramsTask5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearPrograms.LinearProgramsTask5" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinearPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearProgramsTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearPrograms.LinearProgramsTask6" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinearPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CyclesTask6" />
+        <item itemvalue="Application.CyclesTask2" />
+        <item itemvalue="Application.CyclesTask1" />
+        <item itemvalue="Application.LinearProgramsTask6" />
+        <item itemvalue="Application.LinearProgramsTask5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037b8257-6846-4cce-ad20-be05194e4e2c" name="Default Changelist" comment="" />
+      <created>1603218859078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603218859078</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1603445838163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1603445838163" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1603219302172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1603219302172" />
+    <state x="566" y="298" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603892734052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="298" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1603892734052" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1603891244223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603891244223" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603893616851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603893616851" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603893616851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603893616851" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603893616851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603893616851" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603893616851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603893616851" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1603851851846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603851851846" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1603851851846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603851851846" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1603851851845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603851851845" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1603851851846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603851851846" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1603669108263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603669108263" />
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1603433212248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1603433212248" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1603849807343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603849807343" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603737025404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603737025404" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning_EPAM$LinearProgramsTask2.ic" NAME="LinearProgramsTask2 Coverage Results" MODIFIED="1603360106211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LinearPrograms.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Learning_EPAM$CyclesTask1.ic" NAME="CyclesTask1 Coverage Results" MODIFIED="1603674123085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Cycles.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Learning_EPAM$LinearProgramsTask1.ic" NAME="LinearProgramsTask1 Coverage Results" MODIFIED="1603445304619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LinearPrograms.*</FILTER>
+    </SUITE>
+  </component>
+</project>
