@@ -2,69 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="037b8257-6846-4cce-ad20-be05194e4e2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning EPAM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTest4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTask5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Branching/BranchingTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/CyclesTask7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/Learning IDEA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/LinearProgramsTask6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/out/production/Learning IDEA/META-INF/Learning IDEA.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning IDEA/src/LinearProgramsTask6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTask5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,11 +69,11 @@
   </component>
   <component name="RunManager" selected="Application.CyclesTask6">
     <configuration name="CyclesTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cycles.CyclesTask1" />
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask1" />
       <module name="Learning EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cycles.*" />
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="CyclesTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cycles.CyclesTask2" />
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask2" />
       <module name="Learning EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cycles.*" />
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="CyclesTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cycles.CyclesTask6" />
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask6" />
       <module name="Learning EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cycles.*" />
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +108,11 @@
       </method>
     </configuration>
     <configuration name="LinearProgramsTask5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearPrograms.LinearProgramsTask5" />
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms.LinearProgramsTask5" />
       <module name="Learning EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinearPrograms.*" />
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="LinearProgramsTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearPrograms.LinearProgramsTask6" />
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms.LinearProgramsTask6" />
       <module name="Learning EPAM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinearPrograms.*" />
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,10 +229,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603849807343" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603737025404">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603894584456">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603737025404" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603894584456" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_EPAM$LinearProgramsTask2.ic" NAME="LinearProgramsTask2 Coverage Results" MODIFIED="1603360106211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

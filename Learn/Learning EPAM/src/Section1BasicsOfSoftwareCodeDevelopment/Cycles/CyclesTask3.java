@@ -1,6 +1,6 @@
 //Найти сумму квадратов первых ста чисел.
 
-package Cycles;
+package Section1BasicsOfSoftwareCodeDevelopment.Cycles;
 
 public class CyclesTask3 {
     public static void main(String[] args) {

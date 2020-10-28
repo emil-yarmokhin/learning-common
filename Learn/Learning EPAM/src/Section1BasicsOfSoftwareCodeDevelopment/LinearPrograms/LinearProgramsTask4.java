@@ -1,4 +1,4 @@
-package LinearPrograms;
+package Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms;
 
 public class LinearProgramsTask4 {
     public static void main(String[] args) {

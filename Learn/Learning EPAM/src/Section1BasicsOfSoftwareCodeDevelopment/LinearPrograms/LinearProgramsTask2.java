@@ -1,4 +1,4 @@
-package LinearPrograms;
+package Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms;
 
 import static java.lang.Math.abs;
 

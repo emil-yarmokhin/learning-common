@@ -1,7 +1,7 @@
 /*Напишите программу, где пользователь вводит любое целое положительное число.
     А программа суммирует все числа от 1 до введенного пользователем числа.*/
 
-package Cycles;
+package Section1BasicsOfSoftwareCodeDevelopment.Cycles;
 
 public class CyclesTask1 {
     public static void main(String[] args) {
