@@ -3,24 +3,31 @@
   <component name="ChangeListManager">
     <list default="true" id="037b8257-6846-4cce-ad20-be05194e4e2c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTask5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Branching/BranchingTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycles/CyclesTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearPrograms/LinearProgramsTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTask5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Branching/BranchingTest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/Cycles/CyclesTask7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning EPAM/LinearPrograms/LinearProgramsTask6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/LinearPrograms/LinearProgramsTask3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +74,20 @@
       <recent name="C:\Users\HP\Desktop\learning-common\Learn" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CyclesTask6">
+  <component name="RunManager" selected="Application.BranchingTest4">
+    <configuration name="BranchingTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Branching.BranchingTest4" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Branching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CyclesTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask1" />
       <module name="Learning EPAM" />
@@ -81,8 +101,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclesTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask2" />
+    <configuration name="CyclesTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask4" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclesTask5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask5" />
       <module name="Learning EPAM" />
       <extension name="coverage">
         <pattern>
@@ -107,39 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearProgramsTask5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms.LinearProgramsTask5" />
-      <module name="Learning EPAM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinearProgramsTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms.LinearProgramsTask6" />
-      <module name="Learning EPAM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.LinearPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BranchingTest4" />
         <item itemvalue="Application.CyclesTask6" />
-        <item itemvalue="Application.CyclesTask2" />
         <item itemvalue="Application.CyclesTask1" />
-        <item itemvalue="Application.LinearProgramsTask6" />
-        <item itemvalue="Application.LinearProgramsTask5" />
+        <item itemvalue="Application.CyclesTask5" />
+        <item itemvalue="Application.CyclesTask4" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +175,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Inspections" timestamp="1603445838163">
       <screen x="0" y="0" width="1536" height="824" />
@@ -181,58 +191,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="298" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1603892734052" />
+    <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1604311431938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604311431938" />
+    <state x="375" y="7" key="CommitChangelistDialog2" timestamp="1604329551305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="375" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604329551305" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1603891244223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603891244223" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603893616851">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1604330356189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603893616851" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603893616851">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604330356189" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1604330356189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603893616851" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603893616851">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604330356189" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1604330356188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603893616851" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603893616851">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604330356188" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1604330356189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603893616851" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1603851851846">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604330356189" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604328554212">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603851851846" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1603851851846">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604328554212" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604328554212">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603851851846" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1603851851845">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604328554212" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604328554212">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603851851845" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1603851851846">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604328554212" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604328554212">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603851851846" />
-    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1603669108263">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604328554212" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1603977530568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603669108263" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603977530568" />
     <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1603433212248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="475" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1603433212248" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1603849807343">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604326823132">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603849807343" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603894584456">
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604326823132" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604313880946">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603894584456" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604313880946" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_EPAM$LinearProgramsTask2.ic" NAME="LinearProgramsTask2 Coverage Results" MODIFIED="1603360106211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
