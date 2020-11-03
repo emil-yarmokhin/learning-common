@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="037b8257-6846-4cce-ad20-be05194e4e2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Branching/BranchingTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1BasicsOfSoftwareCodeDevelopment/Cycles/CyclesTask6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="225" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\HP\Desktop\learning-common\Learn\Learning EPAM\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j9aeG7T9dSPRfncAnACHkCemC7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\learning-common\Learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BranchingTest4">
+    <configuration name="BranchingTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Branching.BranchingTest4" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Branching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclesTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask4" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclesTask5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask5" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclesTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask6" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclesTask7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.CyclesTask7" />
+      <module name="Learning EPAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section1BasicsOfSoftwareCodeDevelopment.Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BranchingTest4" />
+        <item itemvalue="Application.CyclesTask7" />
+        <item itemvalue="Application.CyclesTask6" />
+        <item itemvalue="Application.CyclesTask5" />
+        <item itemvalue="Application.CyclesTask4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037b8257-6846-4cce-ad20-be05194e4e2c" name="Default Changelist" comment="" />
+      <created>1603218859078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603218859078</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Задания по циклам.">
+      <created>1604330389536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604330389536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задания по циклам." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задания по циклам." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1603445838163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1603445838163" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1603219302172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1603219302172" />
+    <state x="566" y="298" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603892734052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="298" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1603892734052" />
+    <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1604311431938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604311431938" />
+    <state x="375" y="7" key="CommitChangelistDialog2" timestamp="1604387818028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="375" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604387818028" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1603891244223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603891244223" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1604387826459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604387826459" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1604387826459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604387826459" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1604387826459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604387826459" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1604387826459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604387826459" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604328554212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604328554212" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604328554212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604328554212" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604328554212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604328554212" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604328554212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604328554212" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1604330448155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604330448155" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1603977530568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603977530568" />
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1603433212248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1603433212248" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604326823132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604326823132" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604333885728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604333885728" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning_EPAM$LinearProgramsTask2.ic" NAME="LinearProgramsTask2 Coverage Results" MODIFIED="1603360106211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LinearPrograms.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Learning_EPAM$CyclesTask1.ic" NAME="CyclesTask1 Coverage Results" MODIFIED="1603674123085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Cycles.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Learning_EPAM$LinearProgramsTask1.ic" NAME="LinearProgramsTask1 Coverage Results" MODIFIED="1603445304619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LinearPrograms.*</FILTER>
+    </SUITE>
+  </component>
+</project>
