@@ -10,7 +10,7 @@ public class CyclesTask2 {
         for (int i = a; i >= b; i -= h) {
             int y = i;
             if (i <= 2) {
-                y = (-i);
+                y = -i;
             }
             System.out.println("При х = " + i + " у = " + y);
         }

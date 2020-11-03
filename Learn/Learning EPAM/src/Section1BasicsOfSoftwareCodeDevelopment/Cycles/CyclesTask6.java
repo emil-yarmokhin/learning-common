@@ -12,20 +12,17 @@ public class CyclesTask6 {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int m = Integer.parseInt(reader.readLine());
         int n = Integer.parseInt(reader.readLine());
-        int sum = n - m;
-        if ((m < 0) || (n < 0) || (sum < 0)) {
+        int dif = n - m;
+        if (m < 0 || n < 0 || dif < 0) {
             System.out.println("\n" + "Число m должно быть меньше n, оба должны быть натуральными числами.");
             return;
         }
-        for (int i = 0; i <= sum; i++) {
-            int r = i + m;
-            System.out.println("\n" + "Все делители числа (кроме единицы и самого числа) " + r + ":");
-            int j = 2;
-            while (j <= r / 2) {
-                if (r % j == 0) {
+        for (int i = m; i <= n; i++) {
+            System.out.println("\n" + "Все делители числа (кроме единицы и самого числа) " + i + ":");
+            for (int j = 2; j <= i / 2; j++) {
+                if (i % j == 0) {
                     System.out.print(j + " ");
                 }
-                j++;
             }
         }
     }
