@@ -9,12 +9,17 @@ public class OdArraysTask5 {
         Random random = new Random();
         int n = 15;
         int [] array = new int[n];
+
         for (int i = 0; i < array.length; i++) {
             array[i] = random.nextInt(15);
-            if (i > array[i]) {
-                System.out.println("Число " + array[i] + " выводится на печать, оно меньше его индекса ai (" + i + ").");
+        }
+        System.out.println("Приведённый массив:");
+        System.out.println(Arrays.toString(array));
+        System.out.println("На печать выводятся элементы, чьи индексы численно выше их:");
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] < i) {
+                System.out.println("Элемент " + array[i] + " с индексом " + i + ".");
             }
         }
-        System.out.println("\n" + Arrays.toString(array));
     }
 }

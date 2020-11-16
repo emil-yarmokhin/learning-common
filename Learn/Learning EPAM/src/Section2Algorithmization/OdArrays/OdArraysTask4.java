@@ -18,12 +18,12 @@ public class OdArraysTask4 {
                 max = i;
             }
         }
-        System.out.println(Arrays.toString(array));
+        System.out.println("Исходный массив:\n" + Arrays.toString(array));
         System.out.println("Минимальное значение массива: " + array[min] + ", индекс - " + min + ".");
         System.out.println("Максимальное значение массива: " + array[max] + ", индекс - " + max + ".");
         buf = array[min];
         array[min] = array[max];
         array[max] = buf;
-        System.out.println(Arrays.toString(array));
+        System.out.println("Конечный массив:\n" + Arrays.toString(array));
     }
 }
