@@ -14,20 +14,17 @@ public class AOATask2 {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
                 matrix[i][j] = r.nextInt(10);
-                System.out.print(matrix[i][j] + " ");
+                System.out.print(matrix[i][j] + "  ");
             }
             System.out.println();
         }
         System.out.println("\nВыведены элементы, стоящие в матрице по диагонали:");
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
-                if ((i == j) && (i != (n - 1) / 2)) {
-                    System.out.print(matrix[i][j] + " ");
-                } else if (j == n - 1 - count) {
-                    System.out.print(matrix[i][j] + " ");
-                    count++;
+                if ((i == j) || (j == n - 1 - i)) {
+                    System.out.print(matrix[i][j] + "  ");
                 } else {
-                    System.out.print("  ");
+                    System.out.print("•  ");
                 }
             }
             System.out.println();

@@ -14,7 +14,7 @@ public class AOATask4 {
                 } else {
                     matrix[i][j] = p - j;
                 }
-                System.out.print(matrix[i][j] + " ");
+                System.out.print(matrix[i][j] + "  ");
             }
             System.out.println();
         }
