@@ -8,7 +8,6 @@ public class AOATask2 {
         Random r = new Random();
         int n = 5;
         int[][] matrix = new int[n][n];
-        int count = 0;
 
         System.out.println("Вывод квадратной матрицы:");
         for (int i = 0; i < matrix.length; i++) {
@@ -19,10 +18,10 @@ public class AOATask2 {
             System.out.println();
         }
         System.out.println("\nВыведены элементы, стоящие в матрице по диагонали:");
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[i].length; j++) {
-                if ((i == j) || (j == n - 1 - i)) {
-                    System.out.print(matrix[i][j] + "  ");
+        for (int dr = 0; dr < matrix.length; dr++) {
+            for (int dc = 0; dc < matrix[dr].length; dc++) {
+                if ((dr == dc) || (dc == n - 1 - dr)) {
+                    System.out.print(matrix[dr][dc] + "  ");
                 } else {
                     System.out.print("•  ");
                 }
