@@ -1,55 +1,58 @@
 package Section2Algorithmization.DecompositionUsingMethods;
 /*16. Написать программу, определяющую сумму n - значных чисел, содержащих только нечетные цифры.
-Определить также, сколько четных цифр в найденной сумме. Для решения задачи использовать декомпозицию.*/
+Определить также, сколько четных цифр в найденной сумме. Для решения задачи использовать декомпозицию.
+ИСПРАВЛЕНО: УБРАНЫ НЕНУЖНЫЕ СЧЁТЧИКИ (COUNT) */
 public class DUMTask16 {
     public static void main(String[] args) {
-        int n = 4;
+        int n = 7;
         int a = (int) Math.pow(10, n - 1);//n-значное первое число
         int b = (int) Math.pow(10, n) - 1;//n-значное последнее число
-        long sum = oddOnly(n, a, b);
-        System.out.println("\nСумма всех чисел n-ного порядка, содержащих только нечётные цифры, равна: " + sum);
-        System.out.println("Количество чётных цифр в найденной сумме: " + even(sum));
+        System.out.println("Все числа " + n + " порядка, содержащие только нечётные цифры:");
+        getOddContainedOnly(a, b, n);
+        System.out.println("\n\nСумма всех чисел " + n + " порядка, содержащих только нечётные цифры:\n" + range(a, b, n));
+        System.out.println("\nКол-во чётных цифр в сумме всех чисел " + n + " порядка, содержащих только нечётные цифры:");
+        System.out.println(getAllEvens(range(a, b, n)));
     }
 
-    private static long even (long sum) {//счётчик чётных чисел суммы чисел, содержащих только нечётные цифры
-        int evenCount = 0;
-        while (sum != 0) {
-            if (sum % 2 == 0) {
-            evenCount++;
+    private static void getOddContainedOnly(int a, int b, int n) {//вывод на печать всех чисел порядка n, содержащих только нечётные цифры
+        for (int i = a; i <= b; i++) {
+            if (getAllOdds(i) == n) {
+                System.out.print(i + " ");
             }
-            sum /= 10;
         }
-        return evenCount;
     }
 
-    private static long oddOnly(int n, int a, int b) {//счётчик чисел, состоящие полностью из нечётных цифр
+    private static long range(int a, int b, int n) {//суммирование всех чисел порядка n, содержащих только нечётные цифры
         long sum = 0;
         for (int i = a; i <= b; i++) {
-            sum = getSum(n, sum, i);
-        }
-        return sum;
-    }
-
-    private static long getSum(int n, long sum, int i) {//нахождение чисел, состоящие полностью из нечётных цифр
-        int count = 1;
-        int p = i;
-        while (count <= Math.pow(10, n)) {
-            if (p % 2 != 0) {
-                p /= 10;
-                count *= 10;
-            } else {
-                break;
+            if (getAllOdds(i) == n) {
+                sum += i;
             }
-            sum = getSum(n, sum, i, count);
         }
         return sum;
     }
 
-    private static long getSum(int n, long sum, int i, int count) {
-        if (count == Math.pow(10, n)) {//если count имеет столько же разрядов, сколько число i, то оно подходит
-            sum += i;
-            System.out.print(i + " ");
+    private static int getAllOdds(long i) {//подсчёт всех нечётных цифр в числе
+        int count = 0;
+        while (i != 0) {
+            if (i % 2 != 0) {
+                count++;
+            }
+            i /= 10;
         }
-        return sum;
+        return count;
+    }
+
+    private static int getAllDigits(long i) {//подсчёт всех цифр в числе
+        int count = 0;
+        while (i != 0) {
+            i /= 10;
+            count++;
+        }
+        return count;
+    }
+
+    private static int getAllEvens(long i) {//подсчёт всех чётных цифр в числе
+        return getAllDigits(i) - getAllOdds(i);
     }
 }

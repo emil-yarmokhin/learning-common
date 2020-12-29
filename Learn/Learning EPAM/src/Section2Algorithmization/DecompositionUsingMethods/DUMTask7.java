@@ -5,25 +5,28 @@ public class DUMTask7 {
     public static void main(String[] args) {
         int start = 1;
         int end = 9;
-        int global = calculations(start, end);
-        System.out.println(global);
+        int a = range(start, end);
+        System.out.println("Сумма факториалов всех нечётных чисел от " + start + " до " +  end + ": " + a);
     }
 
-    public static int calculations(int a, int b) {
-        int global = 0;
-        int count = 1;
-        for (int i = a; i <= b; i++) {
-            for (int j = a; j <= b; j++) {
-                boolean odds = i % 2 != 0;
-                if (i > j && odds) {
-                    count *= j;
-                } else if (i == j && odds) {
-                    count *= j;
-                    global += count;
-                    count = 1;
-                }
-            }
+    private static int range(int start, int end) {
+        int sum = 0;
+        for (int i = start; i <= end; i++) {
+            int g = sumCount(i);
+            sum += g;
         }
-        return global;
+        return sum;
+    }
+
+    private static int sumCount(int i) {
+        int mult = 1;
+        int sum = 0;
+        for (int j = 1; j <= i; j++) {
+            mult *= j;
+        }
+        if (i % 2 != 0) {
+            sum += mult;
+        }
+        return sum;
     }
 }

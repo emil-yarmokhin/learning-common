@@ -3,35 +3,38 @@ package Section2Algorithmization.DecompositionUsingMethods;
 (например, 1234, 5789). Для решения задачи использовать декомпозицию.*/
 public class DUMTask15 {
     public static void main(String[] args) {
-        int n = 6;
+        int n = 9;
         int a = (int) Math.pow(10, n - 1);//n-значное первое число
         int b = (int) Math.pow(10, n) - 1;//n-значное последнее число
-        increasingSequence(n, a, b);
+        if (exception(n)) return;//если ввести меньше n или равно 1 / больше или равно 10
+        increasingSequence(a, b);
     }
 
-    private static void increasingSequence(int n, int a, int b) {//вывод на экран чисел строго-возрастающей послед-сти
-        if0andLessOr10andMore(n);//если ввести меньше n или равно 1 / больше или равно 10
-        for (int i = a; i <= b; i++) {
-            int count = 1;
-            ifTheSameNumCharge(n, i, count);
-        }
-    }
-
-    private static void ifTheSameNumCharge(int n, int i, int count) {//нахождение чисел, соответствующих условию
-        while (count <= Math.pow(10, n)) {
-            if (i / count % 10 > i / (count * 10) % 10) {
-                count *= 10;
-            } else {
-                break;
-            } if (count == Math.pow(10, n)) {//если count имеет столько же разрядов, сколько число i, то оно подходит
-                System.out.print(i + " ");
-            }
-        }
-    }
-
-    private static void if0andLessOr10andMore(int n) {//вывод предупреждения в случае ввода неверного значения
+    private static boolean exception(int n) {//исключение, завершение программы, если значение true
         if (n <= 0 || n >= 10) {
             System.out.println("Значение n может быть от 1 до 9");
+            return true;
+        }
+        return false;
+    }
+
+    private static void increasingSequence(int a, int b) {//вывод на экран чисел строго-возрастающей послед-сти
+        for (int i = a; i <= b; i++) {
+            ifTheSameNumCharge(i);
+        }
+    }
+
+    private static void ifTheSameNumCharge(int i) {//вывод на печать чисел, соответствующих условию
+        int p = i;
+        while (p >= 0) {
+            if (p % 10 > p / 10 % 10) {
+                p /= 10;
+            } else if (p == 0) {
+                System.out.print(i + " ");
+                break;
+            } else {
+                break;
+            }
         }
     }
 }

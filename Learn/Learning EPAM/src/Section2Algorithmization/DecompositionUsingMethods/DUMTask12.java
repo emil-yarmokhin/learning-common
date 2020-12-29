@@ -9,21 +9,21 @@ public class DUMTask12 {
         int n = 52;
         int k = 7;
         int[] a = new int[arrayLength(n, k)];
-        digits(n, k, a);
+        fillArray(n, k, a);
         System.out.println(Arrays.toString(a));
     }
 
 
-    public static int arrayLength(int n, int k) {//этот метод возвращает кол-во элементов массива n
-        int count2 = 0;
+    public static int arrayLength(int n, int k) {//этот метод считает размер массива a
+        int lengthNumber = 0;
         for (int i = 0; i <= n; i++) {
             int count = 0;
             count = getCount(i, count);
             if (count == k) {
-                count2++;
+                lengthNumber++;
             }
         }
-        return count2;
+        return lengthNumber;
     }
 
     private static int getCount(int box, int count) {
@@ -34,7 +34,7 @@ public class DUMTask12 {
         return count;
     }
 
-    public static void digits(int n, int k, int[] a) {//этот метод заполняет массив n
+    public static void fillArray(int n, int k, int[] a) {//этот метод заполняет массив a
         int j = 0;
         for (int i = 0; i <= n; i++) {
             int count = 0;
@@ -44,6 +44,5 @@ public class DUMTask12 {
                 j++;
             }
         }
-
     }
 }

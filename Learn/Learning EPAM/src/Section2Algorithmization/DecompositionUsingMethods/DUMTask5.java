@@ -11,7 +11,7 @@ public class DUMTask5 {
         Random r = new Random();
         int[] array = new int[r.nextInt(8) + 2];//минимальное кол-во элементов в массиве - 2
         fillArray(array);
-        System.out.print("Число, меньше максимального элемента массива, но больше всех други элементов: ");
+        System.out.print("Число, меньше максимального элемента массива, но больше всех других элементов: ");
         System.out.println(findingPenultimate(array, MIN_VALUE));
         System.out.println(Arrays.toString(array));
     }

@@ -5,37 +5,38 @@ package Section2Algorithmization.DecompositionUsingMethods;
 Для решения задачи использовать декомпозицию.*/
 public class DUMTask14 {
     public static void main(String[] args) {
-        int k = 10000000;
-        armstrong(k);
+        int k = 1000000;
+        range(k);
     }
 
-    private static void armstrong(int k) {//нахождение числа Армстронга
+    private static void range(int k) {//проверка всех значений от 1 до k
         for (int i = 1; i <= k; i++) {
-            int count = 0;
-            int countExp = exponent(i);
-            count = isArmstrong(i, count, countExp);
-            if (count == i) {
-                System.out.print(count + " ");
+            if (i == armstrong(i)) {
+                System.out.print(i + " ");
             }
         }
     }
 
-    private static int isArmstrong(int i, int count, int countExp) {//проверка, явл. ли число числом Армстронга
-        int g = i;
-        while (g != 0) {
-            count += (int) (Math.pow(g % 10, countExp));
-            g /= 10;
-        }
-        return count;
+    private static int armstrong(int i) {//проверка на соответствие. Если да, выводится на печать
+        int exponentNumber = exponent(i);
+        return additionOfNumbersWithExponent(i, exponentNumber);
     }
 
-    private static int exponent(int i) {//определение степени, в которую возводятся цифры числа и суммируются
-        int s = i;
-        int countExp = 0;
-        while (s != 0) {
-            s = s / 10;
-            countExp++;
+    private static int additionOfNumbersWithExponent(int i, int exponentNumber) {//суммируем все цифры числа, возв. в степень
+        int sum = 0;
+        while (i != 0) {
+            sum += (int) (Math.pow(i % 10, exponentNumber));
+            i /= 10;
         }
-        return countExp;
+        return sum;
+    }
+
+    private static int exponent(int i) {//поиск степени, в которую будут возводиться все цифры числа
+        int exponentNumber = 0;
+        while (i != 0) {
+            i /= 10;
+            exponentNumber++;
+        }
+        return exponentNumber;
     }
 }

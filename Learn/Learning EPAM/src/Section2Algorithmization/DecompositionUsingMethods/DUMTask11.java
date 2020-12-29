@@ -6,10 +6,10 @@ import static java.lang.Math.abs;
 public class DUMTask11 {
     public static void main(String[] args) {
         int num1 = 684455;
-        int num2 = -543245;
+        int num2 = -543215;
         int num1Count = countDigits(num1);
         int num2Count = countDigits(num2);
-        System.out.print("Даны числа: " + num1 + " и " + num2 + ". ");
+        System.out.print("Даны числа: \n" + num1 + "\n" + num2 + "\n");
         System.out.println("В каком из них больше цифр:\n" + maxDigits(num1, num2, num1Count, num2Count));
     }
 
@@ -24,14 +24,12 @@ public class DUMTask11 {
     }
 
     public static String maxDigits(int num1, int num2, int num1Count, int num2Count) {//сравнение чисел
-        String a;
         if (num1Count == num2Count) {
-            a = "количество цифр в числах одинаково";
+            return ("Ответ: количество цифр в обоих числах числах одинаково.");
         } else if (abs(num1) > abs(num2)) {
-            a = Integer.toString(num1);
+            return Integer.toString(num1);
         } else {
-            a = Integer.toString(num2);
+            return Integer.toString(num2);
         }
-        return a;
     }
 }
